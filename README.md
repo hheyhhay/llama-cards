@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Llama Info Cards (CSS/HTML)
 Mod + Project Name
@@ -41,3 +42,6 @@ Use [https://gifcap.dev/](https://gifcap.dev/) to make GIFs
 
 ## Project Specs
   - The project spec & rubric can be found [here](https://frontend.turing.edu/projects/static-comp-challenge.html)
+=======
+# llama-cards
+>>>>>>> 733a93f04dbf35d57da7cf06153384a151048233
