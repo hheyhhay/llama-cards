@@ -14,7 +14,7 @@ Mod + Project Name
 
 ## Abstract
 
-This project is focused solely on developing CSS/HTML skills. Given a comp, I recreated the image using CSS/HTML. 
+This project is focused solely on developing CSS/HTML skills. Given a comp, I recreated the image using CSS/HTML.
 
 ## Technologies
   - CSS
@@ -23,16 +23,15 @@ This project is focused solely on developing CSS/HTML skills. Given a comp, I re
 ## Illustrations
 
 ![recording](https://user-images.githubusercontent.com/78764587/126925354-c6b54d1b-e344-4596-9681-e1ef9f529ddf.gif)
-GIF of the mobile site to show scroll 
+GIF of the mobile site to show scroll
 
 <img width="721" alt="llama-comp" src="https://user-images.githubusercontent.com/78764587/126925493-8f6a13f6-3670-4b97-9479-41e0aae6154c.png">
 Static image to show desktop site
 
 
 ## Install + Setup
-- Fork the repo
-- Clone the repo
-- type: open index.html in command line to see the site
+- Deployed website [click here to see some llamas!](https://hheyhhay.github.io/llama-cards/)
+
 
 ## Contributors
 - [Hayley Dixon](https://github.com/hheyhhay)
@@ -46,7 +45,7 @@ Static image to show desktop site
 - Continuing to smooth out my CSS workflow and understand how each property impacts the layout
 - Improving on the time it takes to recreate a composition
 - Learning design styles
-- Improving GitHub and Git workflow 
+- Improving GitHub and Git workflow
 
 
 ## Project Specs
