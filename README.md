@@ -13,7 +13,8 @@ Mod + Project Name
   - [Project Specs](#project-specs)
 
 ## Abstract
-	This project is focused solely on developing CSS/HTML skills. Given a comp, I recreated the image using CSS/HTML.
+
+This project is focused solely on developing CSS/HTML skills. Given a comp, I recreated the image using CSS/HTML. 
 
 ## Technologies
   - CSS
